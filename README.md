@@ -1,3 +1,3 @@
 # eklasky
 
-[research](research.md)    *   [teaching](teaching.md)
+[research](research.md)    ✧   [teaching](teaching.md)
