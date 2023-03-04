@@ -1,3 +1,3 @@
 # research page
 
-[home] (eklasky.github.io)
+[home](eklasky.github.io)
