@@ -4,4 +4,4 @@ permalink: /research
 
 # research page
 
-[home](eklasky.github.io)
+[home](README.md)
