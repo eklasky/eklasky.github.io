@@ -1,5 +1,5 @@
 # eklasky
 
-[research](eklasky.github.io/research.md)
+[research](research.md)
 
-[teaching](eklasky.github.io/teaching.md)
+[teaching](teaching.md)
