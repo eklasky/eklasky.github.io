@@ -1,3 +1,3 @@
 # teaching
 
-[home](eklasky.github.io)
+[home](README.md)
